@@ -1,0 +1,19 @@
+.wrapper {
+  padding-top: 50px;
+  background: #ECEFF1;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+.card {
+  flex-basis: 20%
+}
+
+.color {
+  background-color: indigo;
+}
